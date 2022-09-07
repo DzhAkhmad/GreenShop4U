@@ -11,6 +11,7 @@ object Dimension {
     val xl = 32.dp
 
     val pagePadding = 24.dp
+    val narrowPadding = 12.dp
 
     val smIcon = 24.dp
     val mdIcon = 36.dp
